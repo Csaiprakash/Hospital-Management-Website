@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08eff47e.css",
+    "main.js": "/static/js/main.35d88291.js",
+    "static/media/Hospital2.jpg": "/static/media/Hospital2.4a95f4e08dedf5b8764c.jpg",
+    "static/media/Hospital1.png": "/static/media/Hospital1.7d77d95734216b8ccfd0.png",
+    "static/media/Hospital13.jpg": "/static/media/Hospital13.85179d2aa5c80b3d394b.jpg",
+    "static/media/Hospital17.jpg": "/static/media/Hospital17.169df152cfda11fddee3.jpg",
+    "static/media/Hospital18.jpg": "/static/media/Hospital18.6fbe12b9fa4fb265c9e9.jpg",
+    "static/media/Hospital3.png": "/static/media/Hospital3.5e37a90f9a565172ae78.png",
+    "static/media/Hospital20.webp": "/static/media/Hospital20.c5c7b77ead13e97c04f7.webp",
+    "static/media/Hospital19.jpg": "/static/media/Hospital19.51b51a1075ee37fb6f80.jpg",
+    "static/media/Hospital15.jpg": "/static/media/Hospital15.f9bab70ace517597e4fe.jpg",
+    "static/media/Hospital5.jpg": "/static/media/Hospital5.ae4f41398ddadf93b5cb.jpg",
+    "static/media/Hospital11.jpg": "/static/media/Hospital11.1e51282b97f0741a6c11.jpg",
+    "static/media/Hospital16.jpg": "/static/media/Hospital16.311434f2b2d7706c8204.jpg",
+    "static/media/Hospital10.jpg": "/static/media/Hospital10.0a5458e9ee032cb3deb7.jpg",
+    "static/media/Hospital14.avif": "/static/media/Hospital14.17f97ba65a771be35c3e.avif",
+    "static/media/Hospital12.avif": "/static/media/Hospital12.40d83a7e5b599c377cfb.avif",
+    "static/media/Hospital4.jpg": "/static/media/Hospital4.d4037539d6267edf42b1.jpg",
+    "static/media/Hospital8.jpg": "/static/media/Hospital8.eb4cf6234a6c912739bb.jpg",
+    "static/media/Hospital7.jpg": "/static/media/Hospital7.c21c92e598fcd354ca49.jpg",
+    "static/media/Hospital21.webp": "/static/media/Hospital21.e4f64a334c3d3e2e22ae.webp",
+    "static/media/Hospital6.avif": "/static/media/Hospital6.33c2b0162ed08b20e46b.avif",
+    "index.html": "/index.html",
+    "main.08eff47e.css.map": "/static/css/main.08eff47e.css.map",
+    "main.35d88291.js.map": "/static/js/main.35d88291.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08eff47e.css",
+    "static/js/main.35d88291.js"
+  ]
+}
